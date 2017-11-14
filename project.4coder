@@ -1,0 +1,5 @@
+extensions = ".c.cpp.h.m.bat.sh.4coder";
+open_recursively = true;
+
+fkey_command_mac[1] = {"./build.sh", "*compilation*", true , true };
+fkey_command_mac[2] = {"./test", "*run*", false , true };
